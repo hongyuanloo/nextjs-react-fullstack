@@ -1,5 +1,8 @@
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
 
+# development use only
+/pages/news
+
 # dependencies
 /node_modules
 /.pnp
